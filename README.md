@@ -1,15 +1,19 @@
-### 🪐 Hello world! 🪐
+### 🪐 Hello world! 🪐 
+
 
 I'm **Andrey Hernández**, Computer Engineer
 
 I'm a software developer 🖥️
 
-🔗 This is my portfolio I made it in Vue js using firebase hosting:  <a href="https://portafolio-4ff9d.web.app/" target="_blank">Portfolio</a>
+🔗 This is my portfolio I made it in <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"> using firebase hosting:  <a href="https://portafolio-4ff9d.web.app/" target="_blank">Portfolio</a>
 
 ## About me 🧍
 I'm from Mexico, I studied computer engineering at the UASLP (Universidad Autonoma de San Luis Potosí)
 
-I like everything that has to do with backend programming and databases, my favorite language for backend is **Golang**
+I like everything that has to do with backend programming and databases
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
 
 
 ## Hobies 📚 
@@ -23,7 +27,7 @@ I like everything that has to do with backend programming and databases, my favo
 Aug. 2021 - Actually
 
 - Provide support in assembly line software and database support. 
-- Automating processes in some areas by creating software with python.
+- Automating processes in some areas by creating software with ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 ## 🏢 **Proyecta tu Futuro** 
 
