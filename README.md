@@ -16,7 +16,7 @@ I like everything that has to do with backend programming and databases
 
 
 
-## Hobies 📚 
+## Hobbies 📚 
 
 -  🎮 I really like playing video games 
 -  📘 Read some books, my favorite author is Isaac Asimov
